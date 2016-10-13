@@ -8,5 +8,4 @@ public class Teacher extends People
 		public void peopleM2(){
 			System.out.println("Grade");
 		}
-
 	}

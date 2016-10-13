@@ -191,6 +191,7 @@ public class Quizzer
 			String readyness = userInput.nextLine();
 			if (readyness.equalsIgnoreCase("Yes")){
 				quiz();
+				keepgoing();
 			} else {
 				System.out.println("Thanks for using the quizzer, " + name + ". Good bye!");
 				 System.exit(0);

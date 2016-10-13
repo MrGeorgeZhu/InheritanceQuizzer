@@ -7,7 +7,4 @@ public class People
         public void peopleM2(){
         	System.out.println("Drink");
 		}
-
-		
-
 	}
